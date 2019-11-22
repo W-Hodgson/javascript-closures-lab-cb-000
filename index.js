@@ -1,5 +1,5 @@
 function bumpCounter() {
-  var counter;
+  let counter;
 
   function addBump() {
     counter++;
