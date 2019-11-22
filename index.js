@@ -6,6 +6,6 @@ function bumpCounter() {
   }
 
   function getBumps() {
-
+    return counter
   }
 }
