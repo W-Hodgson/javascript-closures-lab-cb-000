@@ -29,3 +29,4 @@ function createAnimal(animalType) {
     x
   };
 }
+createAnimal('Shark')
