@@ -27,6 +27,6 @@ function createAnimal(animalType) {
 
   return {
     x
-  }
+  };
 
 }
