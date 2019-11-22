@@ -14,3 +14,8 @@ function bumpCounter() {
     getBumps,
   };
 }
+
+
+function createAnimal() {
+
+}
