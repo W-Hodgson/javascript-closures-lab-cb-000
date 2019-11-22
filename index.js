@@ -21,6 +21,7 @@ function createAnimal(animalType) {
   function x(deadlyDevice) {
     return {
       animalType: animalType,
+      deadlyDevice: deadlyDevice
     }
   }
 
