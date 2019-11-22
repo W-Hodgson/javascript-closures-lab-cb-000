@@ -29,4 +29,5 @@ function createAnimal(animalType) {
     x
   };
 }
+
 var sharkCreator = createAnimal('Shark');
