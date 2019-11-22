@@ -1,11 +1,11 @@
 function bumpCounter() {
   var counter;
-  
-  function addBump() {
 
+  function addBump() {
+    counter++;
   }
-  
+
   function getBumps() {
-    
+
   }
 }
