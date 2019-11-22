@@ -29,4 +29,4 @@ function createAnimal(animalType) {
     x
   };
 }
-sharkCreator = createAnimal('Shark')
+var sharkCreator = createAnimal('Shark')
