@@ -32,4 +32,4 @@ function createAnimal(animalType) {
 
 var sharkCreator = createAnimal('Shark');
 
-var sharkWithFrickinCannon
+var sharkWithFrickinCannon = sharkCreator('Cannon')
